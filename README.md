@@ -5,7 +5,7 @@
 * Git LFS
 
 ```console
-brew install
+brew install git-lfs
 ```
 
 ## Configure
